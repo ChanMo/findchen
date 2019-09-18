@@ -24,22 +24,12 @@ const Bio = () => {
       site {
         siteMetadata {
           author
-<<<<<<< HEAD
-          social {
-            twitter
-          }
-=======
->>>>>>> parent of acd3f13... Updates
         }
       }
     }
   `)
 
-<<<<<<< HEAD
-  const { author, social } = data.site.siteMetadata
-=======
   const { author } = data.site.siteMetadata
->>>>>>> parent of acd3f13... Updates
   return (
     <div
       style={{

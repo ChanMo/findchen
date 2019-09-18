@@ -74,8 +74,5 @@ module.exports = {
       },
     },
   ],
-<<<<<<< HEAD
   pathPrefix: "/findchen",
-=======
->>>>>>> parent of acd3f13... Updates
 }
